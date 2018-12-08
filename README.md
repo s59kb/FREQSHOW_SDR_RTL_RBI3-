@@ -1,4 +1,4 @@
-# FREQSHOW_SDR_RTL_RBI3-
+# FREQSHOW_IQ_SDR_RTL_RBI3
 FREQSHOW_SDR_RTL_RBI3+ by S59KB
 
 Added program for hdmi lcd for iq display
